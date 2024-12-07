@@ -1,1 +1,2 @@
 # Netflix Movies and TVShows Data Analysis Using SQL
+![Netflix Log](https://github.com/Aalekh012/Netflix-Data-Analysis-Using-SQL/blob/main/download.png)
